@@ -2,7 +2,7 @@
 
 Number and name of feature: Refactor the CSS/Modify the contents
 
-Estimate of time needed to complete: ____2hrs 30mins_
+Estimate of time needed to complete: ____2hrs 30mins____
 
 Start time: ___9:00am__
 
