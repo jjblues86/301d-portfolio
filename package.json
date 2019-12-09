@@ -1,0 +1,25 @@
+{
+  "name": "301d-portfolio",
+  "version": "1.0.0",
+  "description": "Number and name of feature: Refactor the CSS/Modify the contents",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjblues86/301d-portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjblues86/301d-portfolio/issues"
+  },
+  "homepage": "https://github.com/jjblues86/301d-portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.1"
+  }
+}
