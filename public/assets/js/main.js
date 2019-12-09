@@ -120,6 +120,6 @@
       visibleClass: 'header-visible'
     });
 
-  // $('#myVideo').trigger('play');
+  $('#myVideo').trigger('play');
 
 })(jQuery);
